@@ -4,13 +4,13 @@
 
 # this project has two phases:  phase 1 and phase 2
 
-# phase 1  :
+phase 1  :
     problem 1:
        Design and implement a system that receives the Deterministic Finite Acceptor (DFA) specification from the input file and checks whether the strings entered by the user are 
        accepted or not in the DFA. It is worth mentioning that it should receive the string from the program input as well as the receiver in the format of the DFA_Input_1.txt file, the 
        structure of this file is mentioned in the implementation description. In addition, as an example of DFA, there is a file with the same name in the folder of this project.
 
-       ![1](https://github.com/user-attachments/assets/f7e5f600-0c3c-49a1-aab8-41c9baecd5c4)
+       
 
     problem 2:
        Design and implement a system that converts non-deterministic finite acceptor (NFA) into deterministic finite acceptor (DFA). The NFA receives the input in the format of the 
@@ -26,7 +26,7 @@
        In the second line, the desired regular expression is written and we use ^ for power
 
 
-# phase 2  : 
+ phase 2  : 
      Design a system that uses the Turing machine function:
                𝑓(𝑥)={ 𝑥 𝑚𝑜𝑑 4 for 𝑥≥20
                 3𝑥+5 for 𝑥<20}
