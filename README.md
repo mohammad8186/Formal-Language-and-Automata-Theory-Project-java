@@ -10,6 +10,8 @@
        accepted or not in the DFA. It is worth mentioning that it should receive the string from the program input as well as the receiver in the format of the DFA_Input_1.txt file, the 
        structure of this file is mentioned in the implementation description. In addition, as an example of DFA, there is a file with the same name in the folder of this project.
 
+       ![1](https://github.com/user-attachments/assets/f7e5f600-0c3c-49a1-aab8-41c9baecd5c4)
+
     problem 2:
        Design and implement a system that converts non-deterministic finite acceptor (NFA) into deterministic finite acceptor (DFA). The NFA receives the input in the format of the 
        NFA_Input_2.txt file and produces the output DFA in the format of the DFA_Output _2.txt file, the structure of these files is mentioned in the implementation description. In 
