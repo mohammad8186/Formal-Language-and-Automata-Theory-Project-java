@@ -23,6 +23,7 @@
        The first line contains the letters of the alphabet, separated by a space.
        In the second line, the desired regular expression is written and we use ^ for power
 
+![adder pic](https://github.com/user-attachments/assets/365ecd6c-ea27-4085-8ef5-a4fce2b0da72)
 
 # phase 2  : 
      Design a system that uses the Turing machine function:
