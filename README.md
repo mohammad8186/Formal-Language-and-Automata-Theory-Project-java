@@ -23,10 +23,8 @@ phase 1  :
        of a regular expression, there is a file called RE_Input_3.txt in the folder of this project.
        The input format for the regular expression is as follows:
        The first line contains the letters of the alphabet, separated by a space.
-       In the second line, the desired regular expression is written and we use ^ for power
-
-
- phase 2  : 
+       In the second line, the desired regular expression is written and we use ^ for powe
+phase 2  : 
      Design a system that uses the Turing machine function:
                𝑓(𝑥)={ 𝑥 𝑚𝑜𝑑 4 for 𝑥≥20
                 3𝑥+5 for 𝑥<20}
